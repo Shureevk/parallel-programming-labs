@@ -16,12 +16,12 @@ def main():
         A = load_matrix('data/matrixA.txt')
         B = load_matrix('data/matrixB.txt')
         C_cpp = load_matrix('data/matrixC.txt')
-        
+
         A_np = np.array(A)
         B_np = np.array(B)
         C_np = np.array(C_cpp)
         C_correct = np.dot(A_np, B_np)
-        
+
         if np.allclose(C_np, C_correct):
             print("PASSED")
             return 0
