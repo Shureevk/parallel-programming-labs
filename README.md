@@ -37,11 +37,11 @@
 
 ## Графики
 
-![plot_time_mpi.png](plot_time_mpi.png)
+![plot_time_mpi.png](plots/plot_time_mpi.png)(plot_time_mpi.png)
 
-![plot_speedup_mpi.png](plot_speedup_mpi.png)
+![plot_speedup_mpi.png](plots/plot_speedup_mpi.png)(plot_speedup_mpi.png)
 
-![plot_efficiency_mpi.png](plot_efficiency_mpi.png)
+![plot_efficiency_mpi.png](plots/plot_efficiency_mpi.png)(plot_efficiency_mpi.png)
 
 ## Анализ результатов
 
