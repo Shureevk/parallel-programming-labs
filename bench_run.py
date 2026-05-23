@@ -4,7 +4,7 @@ import os
 import re
 
 SIZES = [200, 400, 800, 1200, 1600, 2000]
-STATS_FILE = 'stats_mpi.csv'
+STATS_FILE = 'stats_sk_mpi.csv'
 PROCS = [1, 2, 4, 8]
 EXE_PATH = 'src/matrix'
 
